@@ -1,0 +1,528 @@
+{
+  "data": [
+    {
+      "comments": 4,
+      "github_user": "AJ-ing",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "Abhist17",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 8,
+      "github_user": "AbiramiR-27",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 2,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "Akshit-Tyagi-05",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "Ashutosh-Mall",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "Atharva0506",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 10,
+      "prs_reviewed": 1,
+      "total_score": 0
+    },
+    {
+      "comments": 3,
+      "github_user": "Basharkhan7776",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "JIturiDashami",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 4,
+      "github_user": "KeerthiKumarR",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "Keshav-poha",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 6,
+      "github_user": "M4dhav",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 6,
+      "prs_reviewed": 4,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "Mayank4352",
+      "issues_opened": 5,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 5,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "No0sa",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "PinJinx",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 4,
+      "github_user": "Prince-ES",
+      "issues_opened": 2,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 3,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 10,
+      "github_user": "PrithvijitBose",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 7,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 4,
+      "github_user": "Ri1tik",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 3,
+      "prs_reviewed": 1,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "Shubhamshinde5080",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "SiddharthJiyani",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 21,
+      "github_user": "Takitxt",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 5,
+      "prs_reviewed": 15,
+      "total_score": 0
+    },
+    {
+      "comments": 3,
+      "github_user": "VanshajPoonia",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 3,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 5,
+      "github_user": "Zahnentferner",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 7,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "adityabhattad2021",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 1,
+      "total_score": 0
+    },
+    {
+      "comments": 2,
+      "github_user": "akshajtiwari",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "amankv1234",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 5,
+      "github_user": "anshul23102",
+      "issues_opened": 5,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "arpan7sarkar",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "bhavik-mangla",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 3,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "coderabbitai[bot]",
+      "issues_opened": 2,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 136,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "copilot-pull-request-reviewer[bot]",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 1,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "dependabot[bot]",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 28,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "dhruvi-16-me",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "fxhxdxd",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "g-k-s-03",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "github-actions[bot]",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "jikrana1",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 2,
+      "github_user": "kaihere14",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 24,
+      "github_user": "kpj2006",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 17,
+      "prs_reviewed": 22,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "muntasir-396",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "piyushagarwal-55",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "prawnsgupta",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "priyanshunitr",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "rahul-vyas-dev",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 1,
+      "prs_reviewed": 2,
+      "total_score": 0
+    },
+    {
+      "comments": 13,
+      "github_user": "reach2saksham",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 11,
+      "prs_reviewed": 5,
+      "total_score": 0
+    },
+    {
+      "comments": 35,
+      "github_user": "rohan-pandeyy",
+      "issues_opened": 5,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 18,
+      "prs_reviewed": 28,
+      "total_score": 0
+    },
+    {
+      "comments": 4,
+      "github_user": "sanskar-singh-2403",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 1,
+      "total_score": 0
+    },
+    {
+      "comments": 3,
+      "github_user": "shubham5080",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 3,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "siddharthsai218",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "syedbarkath980",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 4,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 0,
+      "github_user": "tapasya2903",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 1,
+      "github_user": "vishnunandan555",
+      "issues_opened": 1,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 0,
+      "prs_reviewed": 0,
+      "total_score": 0
+    },
+    {
+      "comments": 3,
+      "github_user": "yellstales",
+      "issues_opened": 0,
+      "period_end": "2026-08-04T09:27:22.168587+00:00",
+      "period_start": "2026-07-28T09:27:22.168587+00:00",
+      "prs_opened": 2,
+      "prs_reviewed": 0,
+      "total_score": 0
+    }
+  ],
+  "generated_at": "2026-08-04T09:34:00.586088+00:00",
+  "org": "AOSSIE-Org",
+  "run_id": "814376c2-be1d-40ee-9c1f-3b3c06d699df",
+  "schema_version": "1.0.0"
+}
